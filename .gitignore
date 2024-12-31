@@ -9,6 +9,8 @@
 *.la
 *.lib
 *.lo
+#*.a
+#*.so
 *.o
 *.obj
 *.pdb
@@ -18,7 +20,7 @@
 .cproject
 .deps
 .dirstamp
-.libs
+#.libs
 .project
 .settings
 /.vs
@@ -29,7 +31,7 @@
 __pycache__
 Debug
 INSTALL
-Makefile
+#Makefile
 Makefile.in
 Release
 TAGS
